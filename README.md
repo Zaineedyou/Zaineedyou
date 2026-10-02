@@ -45,7 +45,7 @@ Developer passionate about building innovative projects across multiple domains 
 ## 📫 Let's Connect
 
 - 💬 Discord: Zaineedyou
-- 🔗 [Portfolio](https://github.com/Zaineedyou/my-portofolio)
+- 🔗 [Portfolio](https://zaineedyou.my.id)
 
 ---
 
